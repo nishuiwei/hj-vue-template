@@ -21,6 +21,6 @@ module.exports = {
 		'@typescript-eslint/explicit-module-boundary-types': 'off',
 		'vue/no-mutating-props': 'off',
 		'@typescript-eslint/no-non-null-assertion': 'off',
-		'no-unused-vars': 1,
+		'no-unused-vars': 1
 	}
 }
